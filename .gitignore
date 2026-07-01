@@ -1,0 +1,12 @@
+# Runtime artifacts the loader creates
+_csvload_*/
+*.zip
+
+# Optional JSON run reports
+*load-report*.json
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+.vscode/
+*.user
